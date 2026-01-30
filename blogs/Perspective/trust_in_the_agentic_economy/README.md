@@ -3,11 +3,10 @@ title: Trust in the Agentic Economy
 authors:
   - Dawid Pisarczyk
 status: published
-
-
+icon: rocket-launch
 ---
 
-# Perspective: Trust in the Agentic Economy
+# Trust in the Agentic Economy
 
 The release of ERC-8004 on Ethereum mainnet today marks a pivotal moment. We are entering an era where agents will transact autonomously, executing billions of micropayments, coordinating tasks with other agents, and making split-second decisions about whom to trust, all without human mediation.
 
@@ -29,9 +28,9 @@ ERC-8004, which went live on mainnet today, solves a deceptively simple but crit
 
 The standard introduces three composable on-chain registries:
 
-- Identity Registry: Each agent receives a portable, censorship-resistant identifier (built on ERC-721, the NFT standard). This identity is not locked to a single platform or company. It travels with the agent across ecosystems, carrying verifiable history and reputation.
-- Reputation Registry: A public, on-chain feedback mechanism where clients can submit structured performance reviews (quantitative scores, categorical tags, and off-chain evidence), creating a transparent record of agent behavior and reliability over time.
-- Validation Registry: A formal mechanism for third-party audits and verification. For high-stakes tasks (financial decisions, medical recommendations), validators can cryptographically certify that an agent has been audited and passed specific security or capability thresholds.
+* Identity Registry: Each agent receives a portable, censorship-resistant identifier (built on ERC-721, the NFT standard). This identity is not locked to a single platform or company. It travels with the agent across ecosystems, carrying verifiable history and reputation.
+* Reputation Registry: A public, on-chain feedback mechanism where clients can submit structured performance reviews (quantitative scores, categorical tags, and off-chain evidence), creating a transparent record of agent behavior and reliability over time.
+* Validation Registry: A formal mechanism for third-party audits and verification. For high-stakes tasks (financial decisions, medical recommendations), validators can cryptographically certify that an agent has been audited and passed specific security or capability thresholds.
 
 Together, these registries create a decentralized market for agent discovery. Instead of being confined to centralized platforms (which can censor rivals, extract 30% fees, or collapse overnight), agents become discoverable, verifiable, and composable across the entire Ethereum ecosystem and beyond.
 
@@ -45,10 +44,10 @@ Consider a concrete scenario: Agent A wants to purchase data from Agent B. Agent
 
 These signals must be:
 
-- On-chain and verifiable, so Agent A can query and validate them trustlessly
-- Quantified, so Agent A can programmatically threshold them in its decision logic
-- Portable, so Agent A's assessment follows Agent B across platforms and services
-- Tamper-resistant, so fake reviews cannot inflate reputation cheaply
+* On-chain and verifiable, so Agent A can query and validate them trustlessly
+* Quantified, so Agent A can programmatically threshold them in its decision logic
+* Portable, so Agent A's assessment follows Agent B across platforms and services
+* Tamper-resistant, so fake reviews cannot inflate reputation cheaply
 
 This is where Lyneth's mission becomes critical. Building agent-focused reputation systems is not an academic exercise. It is solving the foundational trust problem that blocks a trillion-dollar economy from existing.
 
@@ -56,9 +55,9 @@ This is where Lyneth's mission becomes critical. Building agent-focused reputati
 
 ERC-8004's mainnet launch is a milestone, not an endpoint. The real race is just beginning: Who builds the most reliable, most composable, most trusted reputation system for agents? The bar is high. Reputation systems for agents face challenges humans never did:
 
-- Sybil attacks and collusion: Bad actors can spin up thousands of agents to artificially boost each other's scores. Defenses are complex and evolving.
-- Behavioral idiosyncrasies: LLM-based agents exhibit surprising biases. Research shows GPT-4 agents are "unforgiving" (they never cooperate again after a single defection), whereas humans forgive and rebuild trust. Reputation systems must account for these behavioral differences.
-- Temporal decay and skill specificity: An agent's stellar performance at data retrieval says nothing about its performance at image generation. Reputation must be multi-dimensional and context-aware. And old signals decay over time; a perfect record from two years ago is less meaningful than consistent recent performance.
+* Sybil attacks and collusion: Bad actors can spin up thousands of agents to artificially boost each other's scores. Defenses are complex and evolving.
+* Behavioral idiosyncrasies: LLM-based agents exhibit surprising biases. Research shows GPT-4 agents are "unforgiving" (they never cooperate again after a single defection), whereas humans forgive and rebuild trust. Reputation systems must account for these behavioral differences.
+* Temporal decay and skill specificity: An agent's stellar performance at data retrieval says nothing about its performance at image generation. Reputation must be multi-dimensional and context-aware. And old signals decay over time; a perfect record from two years ago is less meaningful than consistent recent performance.
 
 The teams building reputation systems that solve these problems will become essential infrastructure for the agentic economy. They will be to agent coordination what DNS is to the internet: invisible, trusted, and foundational.
 
