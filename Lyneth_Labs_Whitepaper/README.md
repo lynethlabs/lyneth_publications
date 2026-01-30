@@ -16,7 +16,7 @@ In decentralised agentic economies (ERC-8004), static reputation scores are insu
 
 ## 1. Introduction: The Crisis of Static Trust
 
-Current reputation systems in Web3 rely on scalar accumulation - simple counters of "stars" or "successful transactions." These systems suffer from three critical failures:
+Current reputation systems in ERC-8004 rely on scalar accumulation - simple counters of "stars" or "successful transactions." These systems suffer from three critical failures:
 
 1. **Lack of Nuance:** A new agent with 5 successful transactions often looks identical to a veteran with 5,000.
 2. **Rigidity:** They fail to detect sudden changes in behavior, such as a high-performing agent turning malicious (an exit scam).
