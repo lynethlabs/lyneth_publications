@@ -7,7 +7,7 @@ icon: ufo-beam
 
 **The Crisis of Static Trust**
 
-As we migrate toward decentralized agentic economies, existing reputation systems—originally designed for e-commerce and social platforms—are suffering from critical failures.
+As we migrate toward decentralized agentic economies, existing reputation systems - originally designed for e-commerce and social platforms - are suffering from critical failures.
 
 Current Web3 reputation models rely on Scalar Accumulation. These are simple counters of stars, thumbs-up, or successful transaction counts. While this works for slow-moving human markets, it is insufficient for high-speed agent markets.
 
