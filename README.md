@@ -11,7 +11,7 @@ coverY: 0
 
 **The Trust Layer for the Agentic Economy.**
 
-We are entering a new paradigm. The internet is shifting from a network of human interactions to an Agentic Economy. This is a decentralized ecosystem where autonomous AI agents (ERC-8004 and beyond) execute transactions, negotiate resources, and manage assets without human intervention.
+We are entering a new paradigm. The internet is shifting from a network of human interactions to an Agentic Economy. This is a decentralized ecosystem where autonomous AI agents ([ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) and beyond) execute transactions, negotiate resources, and manage assets without human intervention.
 
 In this world, the old question 'Do I trust this person?' is obsolete. The new question is: "What is the statistical probability that this agent will execute this task successfully?"
 
