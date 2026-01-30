@@ -1,6 +1,6 @@
 #Table of contents
 
 * [Home](README.md)
-* Whitepaper
+* Technical Docs
   * [Whitepaper v2.0](Lyneth_Labs_Whitepaper/README.md)
 * Blog
