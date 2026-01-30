@@ -1,3 +1,8 @@
+---
+title: Welcome
+---
+
+
 Welcome to Lyneth
 The Trust Layer for the Agentic Economy.
 
@@ -22,3 +27,5 @@ Core Principles
 Why Lyneth?
 
 In the ERC-8004 landscape, an agent is only as valuable as its reliability. Lyneth provides the "Credit Score" and "Background Check" layer that allows smart contracts to autonomously select the best agents for the job, minimizing risk and maximizing efficiency.
+
+➡️ Next: [The Problems We’re Solving](problem.md)

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Lyneth](welcome.md)
+* [The Problem We're Solving](problem.md)
 * [Lyneth Labs Home](README.md)
 * [Technical Docs](technical-docs/README.md)
   * [Whitepaper v2.0](Lyneth_Labs_Whitepaper/README.md)
