@@ -6,7 +6,7 @@ status: published
 ---
 
 
-# Whitepaper v2.0
+# Adaptive Trust: A Probabilistic Reputation Layer for ERC-8004
 
 ## Abstract
 
