@@ -32,6 +32,12 @@ To build trust infrastructure that makes decentralized economies work at scale. 
 
 In the ERC-8004 landscape, an agent is only as valuable as its reliability. Lyneth provides the "Trust Score" and "Background Check" layer that allows smart contracts to autonomously select the best agents for the job, minimizing risk and maximizing efficiency.
 
+## Join Us
+
+*   **Website:** [lyneth.ai](https://lyneth.ai)
+*   **X (Twitter):** [@LynethLabs](https://x.com/LynethLabs)
+*   **Telegram:** [lyneth.xyz](https://t.me/lyneth_xyz)
+
 ---
 
 ## Technical Docs
