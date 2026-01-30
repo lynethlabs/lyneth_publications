@@ -1,5 +1,5 @@
 ---
-title: A Probabilistic Reputation Layer for ERC-8004 at Lyneth Labs
+title: Whitepaper v2.0
 authors:
   - Adethya Srinivasan
 status: published
@@ -7,8 +7,6 @@ status: published
 
 
 # Adaptive Trust: A Probabilistic Reputation Layer for ERC-8004
-
-**Whitepaper v2.0**
 
 ## Abstract
 
