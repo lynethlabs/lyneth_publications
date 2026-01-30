@@ -53,4 +53,4 @@ Current systems ask: "Is this agent good?" (Yes/No). This is the wrong question.
 
 Lyneth Labs solves this by moving from Accumulative Trust to Adaptive, Probabilistic Trust.
 
->> Next: [Core Architecture](Lyneth_Labs_Whitepaper/)
+>> Next: [Core Architecture](solution.md)
