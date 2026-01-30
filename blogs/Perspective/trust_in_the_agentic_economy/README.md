@@ -17,15 +17,7 @@ This is not a distant vision. The infrastructure is crystallizing now.
 
 The "agentic economy" describes an emerging paradigm where autonomous AI agents function as economic actors in their own right. Unlike chatbots designed to serve humans, these agents initiate transactions, negotiate services, allocate capital, and collaborate with other agents at machine speed. A single agent orchestrating a workflow might trigger hundreds of API calls, data requests, and service payments in seconds, each requiring real-time settlement.
 
-The scale is staggering. Industry analysts project the agentic economy will represent a $4.4 trillion opportunity by 2030, with agents increasingly deployed across finance, logistics, asset management, and supply chain coordination (
-
-[PwC, 2024](https://www.pwc.com/m1/en/publications/documents/2024/agentic-ai-the-new-frontier-in-genai-an-executive-playbook.pdf)
-
-;
-
-[Sei Blog, 2025](https://blog.sei.io/ecosystem/building-the-rails-for-a-200b-ai-agent-economy/)
-
-)
+The scale is staggering. Industry analysts project the agentic economy will represent a $4.4 trillion opportunity by 2030, with agents increasingly deployed across finance, logistics, asset management, and supply chain coordination ([PwC, 2024](https://www.pwc.com/m1/en/publications/documents/2024/agentic-ai-the-new-frontier-in-genai-an-executive-playbook.pdf); [Sei Blog, 2025](https://blog.sei.io/ecosystem/building-the-rails-for-a-200b-ai-agent-economy/))
 
 But this isn't about speculation. The foundation is practical: agents need programmable, permissionless, instantaneous payment infrastructure operating around the clock. Traditional banking rails, designed for human-scale, business-hours transactions, cannot accommodate machine-speed economics. Blockchain was built precisely for this.
 
