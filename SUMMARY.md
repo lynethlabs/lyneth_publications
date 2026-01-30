@@ -2,5 +2,5 @@
 
 * [Home](README.md)
 * Whitepaper
-  * [Lyneth Labs Whitepaper](articles/Lyneth_Labs_Whitepaper)
+  * [Whitepaper v2.0](articles/Lyneth_Labs_Whitepaper)
 * Blog
