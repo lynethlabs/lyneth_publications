@@ -18,7 +18,7 @@ Here is why the current model fails:
 A new agent with 5 successful transactions often looks identical to a veteran agent with 5,000 successful transactions.
 
 *   **The Flaw:** Accumulative systems measure volume, not certainty.
-*   **The Risk:** Smart contracts cannot mathematically distinguish between "High Potential" (lucky new entrant) and "High Reliability" (proven veteran), leading to misallocated capital.
+*   **The Risk:** It is difficult to mathematically distinguish between "High Potential" (lucky new entrant) and "High Reliability" (proven veteran), leading to misallocated capital.
 
 ## 2. Rigidity & The Exit Scam
 
