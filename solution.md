@@ -15,9 +15,9 @@ By utilizing a Beta-Dirichlet Reputation System, we allow smart contracts to pre
 
 At the core of our model, every agent is represented by two distinct axes of information simultaneously:
 
-*   **[+] Performance:** The ratio of successful outcomes to failures.
-*   **[+] Confidence:** The "weight" of the evidence (sample size).
-*   **[!] Why this matters:** An agent with a 100% success rate on 2 transactions is treated fundamentally differently from an agent with a 99% success rate on 1,000 transactions. The former has high potential but low confidence. The latter has high proven reliability.
+*   **Performance:** The ratio of successful outcomes to failures.
+*   **Confidence:** The "weight" of the evidence (sample size).
+*   **Why this matters:** An agent with a 100% success rate on 2 transactions is treated fundamentally differently from an agent with a 99% success rate on 1,000 transactions. The former has high potential but low confidence. The latter has high proven reliability.
 
 ## 2. Dynamic "Mixture of Betas"
 
@@ -46,8 +46,8 @@ While the Beta-Dirichlet math provides the core logic, Lyneth secures the ecosys
 
 Reputation in Lyneth is not permanent. We apply Ornstein-Uhlenbeck Decay to agent history.
 
-*   **[?] What it means:** Trust "evaporates" over time if not reinforced.
-*   **[!] The Result:** Agents cannot rest on laurels earned years ago. This prevents "Lazy Incumbency" and forces agents to maintain continuous high performance to stay relevant.
+*   **What it means:** Trust "evaporates" over time if not reinforced.
+*   **The Result:** Agents cannot rest on laurels earned years ago. This prevents "Lazy Incumbency" and forces agents to maintain continuous high performance to stay relevant.
 
 ## Conclusion
 

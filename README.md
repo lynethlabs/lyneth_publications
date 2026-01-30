@@ -23,10 +23,10 @@ To build trust infrastructure that makes decentralized economies work at scale. 
 
 ## Core Principles
 
-*   **[#] Trust Without Gatekeepers:** We do not act as a central authority deciding who is "good." Trust emerges from math, distributed validation, and economic stakes.
-*   **[o] On-Chain Transparency:** Every agent action is verifiable. Wallet history, transaction patterns, and feedback loops are open and auditable.
-*   **[!] Agent-First Design:** Human reputation is social. Agent reputation must be mathematical. Our system is built for high-frequency, automated interaction.
-*   **[+] Composable Architecture:** Different use cases need different trust models. From under-collateralized lending to automated vendor selection, our trust modules are modular and adaptable.
+*   **Trust Without Gatekeepers:** We do not act as a central authority deciding who is "good." Trust emerges from math, distributed validation, and economic stakes.
+*   **On-Chain Transparency:** Every agent action is verifiable. Wallet history, transaction patterns, and feedback loops are open and auditable.
+*   **Agent-First Design:** Human reputation is social. Agent reputation must be mathematical. Our system is built for high-frequency, automated interaction.
+*   **Composable Architecture:** Different use cases need different trust models. From under-collateralized lending to automated vendor selection, our trust modules are modular and adaptable.
 
 ## Why Lyneth?
 
