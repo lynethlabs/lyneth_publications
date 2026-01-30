@@ -24,13 +24,13 @@ What makes this moment different is feasibility. Ethereum Layer 2 solutions and 
 
 ## ERC-8004
 
-ERC-8004, which went live on mainnet today, solves a deceptively simple but critical problem: How do autonomous agents find, identify, and trust each other without a centralised intermediary?
+[ERC-8004](https://eips.ethereum.org/EIPS/eip-8004), which went live on mainnet today, solves a deceptively simple but critical problem: How do autonomous agents find, identify, and trust each other without a centralised intermediary?
 
 The standard introduces three composable on-chain registries:
 
-* Identity Registry: Each agent receives a portable, censorship-resistant identifier (built on ERC-721, the NFT standard). This identity is not locked to a single platform or company. It travels with the agent across ecosystems, carrying verifiable history and reputation.
-* Reputation Registry: A public, on-chain feedback mechanism where clients can submit structured performance reviews (quantitative scores, categorical tags, and off-chain evidence), creating a transparent record of agent behavior and reliability over time.
-* Validation Registry: A formal mechanism for third-party audits and verification. For high-stakes tasks (financial decisions, medical recommendations), validators can cryptographically certify that an agent has been audited and passed specific security or capability thresholds.
+* **Identity Registry**: **Each agent receives a portable, censorship-resistant identifier (built on ERC-721, the NFT standard).** This identity is not locked to a single platform or company. It travels with the agent across ecosystems, carrying verifiable history and reputation.
+* **Reputation Registry**: **A public, on-chain feedback mechanism where clients can submit structured performance reviews.** This allows for quantitative scores, categorical tags, and off-chain evidence, creating a transparent record of agent behavior and reliability over time.
+* **Validation Registry**: **A formal mechanism for third-party audits and verification.** For high-stakes tasks (financial decisions, medical recommendations), validators can cryptographically certify that an agent has been audited and passed specific security or capability thresholds.
 
 Together, these registries create a decentralized market for agent discovery. Instead of being confined to centralized platforms (which can censor rivals, extract 30% fees, or collapse overnight), agents become discoverable, verifiable, and composable across the entire Ethereum ecosystem and beyond.
 
