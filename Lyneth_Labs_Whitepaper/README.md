@@ -37,7 +37,7 @@ At the heart of our model, no agent is defined by a single number. Instead, ever
 
 This distinction is critical. An agent with a 100% success rate on 2 transactions is treated fundamentally differently from an agent with a 99% success rate on 1,000 transactions. The former has high potential but low confidence; the latter has high proven reliability.
 
-### 2.2 The Global Landscape: A Mixture of Experts
+### 2.2 The Global Landscape
 
 Agents do not exist in a vacuum. Our system utilises a **Global Mixture Model** that dynamically categorises agents into behavioral archetypes (clusters).
 
