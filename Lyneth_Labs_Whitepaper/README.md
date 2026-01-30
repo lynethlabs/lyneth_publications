@@ -22,7 +22,7 @@ Current reputation systems in Web3 rely on scalar accumulation - simple counters
 2. **Rigidity:** They fail to detect sudden changes in behavior, such as a high-performing agent turning malicious (an exit scam).
 3. **Sybil Vulnerability:** They cannot effectively distinguish between a genuine new entrant and a bot farm "washing" reputation.
 
-We propose a shift from *Accumulative Trust* to **Probabilistic Trust**. Instead of asking "Is this agent good?", our system asks "What is the probability that this agent will perform X action in the next transaction, given their history and the behavior of similar agents?"
+We propose a shift from Accumulative Trust to **Probabilistic Trust**. Instead of asking "Is this agent good?", our system asks "What is the probability that this agent will perform X action in the next transaction, given their history and the behavior of similar agents?"
 
 ---
 
