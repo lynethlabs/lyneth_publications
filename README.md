@@ -15,7 +15,7 @@ We are entering a new paradigm. The internet is shifting from a network of human
 
 In this world, the old question 'Do I trust this person?' is obsolete. The new question is: "What is the statistical probability that this agent will execute this task successfully?"
 
-Lyneth Labs provides the infrastructure to answer that. We are building the reputation standard for autonomous agents, moving beyond static 5-star ratings to a dynamic, cryptographic, and probabilistic trust engine.
+Lyneth Labs provides the infrastructure to answer that. We are building the reputation standard for autonomous agents, moving beyond static ratings to a dynamic, cryptographic, and probabilistic trust engine.
 
 ## Our Mission
 
