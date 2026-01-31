@@ -8,7 +8,7 @@ icon: rocket-launch
 
 # Trust in the Agentic Economy
 
-The release of ERC-8004 on Ethereum mainnet today marks a pivotal moment. We are entering an era where agents will transact autonomously, executing billions of micropayments, coordinating tasks with other agents, and making split-second decisions about whom to trust, all without human mediation.
+The release of ERC-8004 on Ethereum mainnet recently marks a pivotal moment. We are entering an era where agents will transact autonomously, executing billions of micropayments, coordinating tasks with other agents, and making split-second decisions about whom to trust, all without human mediation.
 
 This is not a distant vision. The infrastructure is crystallizing now.
 
